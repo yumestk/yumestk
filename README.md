@@ -1,7 +1,5 @@
 <h1 align="center">Yumestk</h1>
 
----
-
 <p align="center">
   <b>Backend Engineer</b> · Java ·  AI Application Developer
 </p>
