@@ -1,6 +1,5 @@
 <div align="center">
-## Hi, I'm yumestk
----
+  ## Hi, I'm yumestk
 <!-- 动态打字效果 -->
 <!-- 个性签名 -->
 <p><i>🚀 Hello World ! ! ! </i></p>
@@ -23,32 +22,12 @@
 
 
 ---
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=yumestk&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="yumestk stats card" width="100%" />
+</p>
 
-<!-- 文字统计 -->
-
-<br/>
-
-<!-- 蛇动画 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumestk/yumestk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yumestk/yumestk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yumestk/yumestk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yumestk&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 ---
 
 ## 📈 Activity Graph
