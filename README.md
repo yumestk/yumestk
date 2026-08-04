@@ -1,8 +1,7 @@
 <div align="center">
-
+## Hi, I'm yumestk
+---
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C1F5&width=435&lines=%E4%BA%BA%E5%95%8A%EF%BC%8C%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%B4%BB%E4%B8%8B%E5%8E%BB%E5%90%A7)](https://git.io/typing-svg)
-
 <!-- 个性签名 -->
 <p><i>🚀 Hello World ! ! ! </i></p>
 
@@ -29,11 +28,6 @@
 <div align="center">
 
 <!-- 文字统计 -->
-<p>
-  <img src="https://img.shields.io/badge/⭐%20Stars-4-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📦%20Repos-5-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📝%20Commits-13-green?style=for-the-badge" />
-</p>
 
 <br/>
 
