@@ -1,6 +1,6 @@
 <div align="center">
 <!-- 动态打字效果 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C1F5&width=435&lines=Hello%2C+I+'+m+yumestk" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C1F5&center=true&width=435&lines=Hello!+I+'+m+yumestk." alt="Typing SVG" /></a>
 <!-- 个性签名 -->
 <p><i>🚀 Hello World ! ! ! </i></p>
 
