@@ -1,4 +1,5 @@
 <div align="center">
+<img align="right" src="https://count.getloli.com/get/@:yumestk?theme=rule34">
 <!-- 动态打字效果 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C1F5&center=true&width=435&lines=Hello!+I+'+m+yumestk." alt="Typing SVG" /></a>
 <!-- 个性签名 -->
