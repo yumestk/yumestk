@@ -30,10 +30,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yumestk&color=blue&style=flat-square" alt="Profile views" />
-
-
-</div>
