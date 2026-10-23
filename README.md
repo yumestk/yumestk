@@ -14,7 +14,7 @@
 
 ---
 
-## 🫃 About Me
+## 🫃 Recently
 
 <img
   align="left"
@@ -23,10 +23,25 @@
   alt="Spotify recently played"
 />
 
-- 🧑🏼‍💻 Love Coding
+
+### 👾 About Me
+
+- 👨‍💻 Love Coding
 - 🤖 AI Explorer
 - 📖 Visual Novel Lover
 - 🌙 Night Owl
+
+### 🌸 Open Source
+
+- ✅ **Apache Dubbo-go**
+  - [#3776](https://github.com/apache/dubbo-go/pull/3776)
+
+### 🚀 Currently Working On
+
+- 🥂 High-Concurrency Systems
+- 🌱 Go / Distributed Systems / Cloud-Native
+
+
 
 <br clear="both" />
 
