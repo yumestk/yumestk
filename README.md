@@ -16,12 +16,25 @@
 
 ## 🫃 About Me
 
-- 🧑🏼‍💻 Love Coding
-- 🤖 AI Explorer
-- 📖 Visual Novel Lover
-- 🌙 Night Owl
-
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31nksgja76fyrieg2mfejxulwsum&theme=catppuccin&username=off)
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <img
+        src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31nksgja76fyrieg2mfejxulwsum&theme=catppuccin&username=off"
+        alt="Spotify recently played"
+        width="420"
+      />
+    </td>
+    <td width="40%" valign="top">
+      <ul>
+        <li>🧑🏼‍💻 Love Coding</li>
+        <li>🤖 AI Explorer</li>
+        <li>📖 Visual Novel Lover</li>
+        <li>🌙 Night Owl</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 📈 GitHub Activity
