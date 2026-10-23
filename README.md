@@ -21,6 +21,7 @@
 - 📖 Visual Novel Lover
 - 🌙 Night Owl
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31nksgja76fyrieg2mfejxulwsum)
 
 ---
 ## 📈 GitHub Activity
